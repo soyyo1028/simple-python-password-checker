@@ -23,6 +23,8 @@ A simple Python-based password strength checker that analyzes password security 
 
 ## How to Run
 
+Open a terminal in the project folder and run:
+
 ```
 python password_checker.py
 ```
