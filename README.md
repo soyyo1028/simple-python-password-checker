@@ -1,4 +1,4 @@
-# Password Strong Checker
+# Simple Python Password Checker
 
 A simple Python program that checks password strength using multiple validation rules and a scoring system.
 
