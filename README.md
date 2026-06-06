@@ -1,6 +1,6 @@
 # Simple Python Password Checker
 
-A simple Python program that checks password strength using multiple validation rules and a scoring system.
+A simple Python-based password strength checker that analyzes password security using different validation rules and a scoring system.
 
 ## Features
 
@@ -30,12 +30,13 @@ python password_checker.py
 ## Example
 
 ```
-Enter your password: Password123
+Enter your password: SecurePass
 
+➔  Your password must contain at least one number.
 ➔  Your password must contain at least one special character.
 ⬆️ Flags found. ⬆️
 
-Score: 9/10 (Strong password)
+Score: 6/10 (Moderate password)
 ```
 
 ## Technologies Used
